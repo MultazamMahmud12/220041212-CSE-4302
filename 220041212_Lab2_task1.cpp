@@ -33,7 +33,7 @@ case 'r':
     break;
     }
     switch(wrk) {
-case 0 :
+case laborer :
     cout << "laborer" << endl;
     break;
 

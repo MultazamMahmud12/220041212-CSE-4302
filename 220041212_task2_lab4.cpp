@@ -9,7 +9,7 @@ private:
     string accountholdername;
     string accounttype;
     float currentbalance;
-    const float minimumvalue = 100;
+    const int  minimumvalue = 100;
 
 public:
     bankaccount(int accountnumber, string name, string accounttype, float currentbalance)

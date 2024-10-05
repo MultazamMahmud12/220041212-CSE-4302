@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1727841275 source:e:\semester 3\cse 4302 oop\220041212_task1_lab5.cpp\main.cpp
+	<iostream>
+	"Student.h"
+	<vector>
+	<bits/stdc++.h>
+
+1727839482 source:e:\semester 3\cse 4302 oop\220041212_task1_lab5.cpp\src\student.cpp
+	"Student.h"
+	<iostream>
+
+1727841270 e:\semester 3\cse 4302 oop\220041212_task1_lab5.cpp\include\student.h
+	<string>
+	<time.h>
+	<iostream>
+
