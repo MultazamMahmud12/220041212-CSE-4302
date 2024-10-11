@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1728445226 source:e:\semester 3\cse 4302 oop\lab 6\220041212_task1_lab2.cpp\main.cpp
+	<iostream>
+	"Matrix3D.h"
+
+1728445145 e:\semester 3\cse 4302 oop\lab 6\220041212_task1_lab2.cpp\include\matrix3d.h
+	<iostream>
+
+1728445208 source:e:\semester 3\cse 4302 oop\lab 6\220041212_task1_lab2.cpp\src\matrix3d.cpp
+	"Matrix3D.h"
+
+1728445300 source:e:\semester 3\cse 4302 oop\lab 6\220041212_task1_lab2.cpp\src\farenheit.cpp
+	"farenheit.h"
+
+1728445300 e:\semester 3\cse 4302 oop\lab 6\220041212_task1_lab2.cpp\include\farenheit.h
+
+1728446340 source:e:\semester 3\cse 4302 oop\lab 6\220041212_task1_lab2.cpp\src\celcius.cpp
+	"celcius.h"
+	<bits/stdc++.h>
+
+1728446315 e:\semester 3\cse 4302 oop\lab 6\220041212_task1_lab2.cpp\include\celcius.h
+
